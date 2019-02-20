@@ -9,14 +9,14 @@ import org.openqa.selenium.interactions.Actions;
 
 import java.util.List;
 
-public class BankRate {
+public class BootstrapsHandling {
     public static void main(String[] args) {
         WebDriverManager.chromedriver().setup();
         WebDriver driver=new ChromeDriver();
         driver.navigate().to("https://www.bankrate.com/");
 
         // How To do MouseHover:
-        Actions act=new Actions(driver);
+        Actions act = new Actions(driver);
 
         List<WebElement> bootstarps=driver.findElements(By.xpath(".//a[@class='global-navigation__horizontal-item']"));
        act.moveToElement(bootstarps.get(0)).perform();
@@ -26,10 +26,12 @@ public class BankRate {
            String AA=each.getText();
            if(AA.equals("Reverse mortgages")){
                each.click();
+               break;    // when we find each element inside loop use break or return
+
            }
        }
 
-
+        driver.close();
 
     }
 

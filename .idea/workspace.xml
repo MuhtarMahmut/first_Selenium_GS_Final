@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aa50191-e97a-407b-99c2-d56dae7297b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Practices/DropDownBoxHandling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Practices/BankRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practices/BootstrapsHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Practices/BankRate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utilities/Mylibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utilities/Mylibrary.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Dpendency_Import/Dependencies.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
@@ -31,6 +37,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Ihtibar/Ihtibar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -48,10 +63,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Practices/BankRate.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Practices/BootstrapsHandling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="245">
+              <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Practices/DropDownBoxHandling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1146">
+              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="108">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -90,10 +117,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/Dpendency_Import/Mylibrary.java" />
         <option value="$PROJECT_DIR$/src/test/java/Dpendency_Import/TestingUpdates.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" />
         <option value="$PROJECT_DIR$/src/test/java/Elements/elemnts.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Practices/BankRate.java" />
         <option value="$PROJECT_DIR$/src/test/java/Dpendency_Import/Dependencies.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Practices/BankRate.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Practices/BootstrapsHandling.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Practices/DropDownBoxHandling.java" />
       </list>
     </option>
   </component>
@@ -159,6 +188,22 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Practices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -166,7 +211,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550682776032" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550689046967" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -189,9 +234,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BankRate">
-    <configuration name="BankRate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practices.BankRate" />
+  <component name="RunManager" selected="Application.DropDownBoxHandling">
+    <configuration name="BootstrapsHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practices.BootstrapsHandling" />
       <module name="first_Selenium_GS" />
       <extension name="coverage">
         <pattern>
@@ -216,6 +261,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DropDownBoxHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practices.DropDownBoxHandling" />
+      <module name="first_Selenium_GS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="elemnts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Elements.elemnts" />
       <module name="first_Selenium_GS" />
@@ -231,7 +289,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankRate" />
+        <item itemvalue="Application.DropDownBoxHandling" />
+        <item itemvalue="Application.BootstrapsHandling" />
         <item itemvalue="Application.elemnts" />
         <item itemvalue="Application.Dependencies" />
       </list>
@@ -281,8 +340,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="967" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2722833" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2722833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -291,7 +351,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.03963012" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30742857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -299,7 +359,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32893" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32893" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.328" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -337,27 +397,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Practices/BankRate.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Dpendency_Import/Dependencies.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        <state relative-caret-position="540">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Ihtibar/Ihtibar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Dpendency_Import/Dependencies.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        <state relative-caret-position="108">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Practices/BootstrapsHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Practices/DropDownBoxHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1146">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
