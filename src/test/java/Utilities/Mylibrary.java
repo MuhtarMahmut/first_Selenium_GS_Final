@@ -3,6 +3,8 @@ package Utilities;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.File;
 import java.io.IOException;
@@ -44,6 +46,10 @@ public static Actions act;
         JavascriptExecutor js=(JavascriptExecutor)driver;
         js.executeScript("scroll(0,"+y+")");
 
+    }
+
+    public static void waitTitle(WebDriverWait wait, String titlecontains){
+        wait.until(ExpectedConditions.titleContains(titlecontains));
     }
 
 
