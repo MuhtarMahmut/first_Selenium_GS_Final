@@ -8,6 +8,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
 
 public class Mylibrary {
@@ -35,7 +37,7 @@ public static Actions act;
         TakesScreenshot mirzat=(TakesScreenshot)driver;
         File myfile=mirzat.getScreenshotAs(OutputType.FILE);
         try {
-            FileUtils.copyFile(myfile, new File("src/test/captures/"+SaveAs+".jpg"));
+            FileUtils.copyFile(myfile, new File("src/test/captures/"+SaveAs+".png"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -48,10 +50,28 @@ public static Actions act;
 
     }
 
-    public static void waitTitle(WebDriverWait wait, String titlecontains){
-        wait.until(ExpectedConditions.titleContains(titlecontains));
-    }
+    public static String getScreenshotForReport(WebDriver driver,String name) {
+        // name the screenshot with current date-time to avoid duplicate naming
+        String time = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 
+        // TakeScreenshot -> interface from selenium which takes screenshots
+        TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
+
+        File source = takesScreenshot.getScreenshotAs(OutputType.FILE);
+
+        // full path to the screenshot location
+        String target = "src/test/captures/Screenshots" + name + ".png";
+
+        File finalDestination = new File(target);
+
+        // save the screenshot to the path given
+        try {
+            FileUtils.copyFile(source, finalDestination);
+        } catch (IOException io) {
+        }
+
+        return target;
+    }
 
 
 
