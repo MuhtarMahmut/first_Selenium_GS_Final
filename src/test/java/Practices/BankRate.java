@@ -23,9 +23,11 @@ public class BankRate {
 
        List<WebElement> allClickableLink=driver.findElements(By.tagName("a"));
        for(WebElement each: allClickableLink){
-           String AA=each.getText();
+            String AA = each.getText();
            if(AA.equals("Reverse mortgages")){
                each.click();
+               break;
+
            }
        }
 
