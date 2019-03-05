@@ -50,7 +50,7 @@ public static Actions act;
 
     }
 
-    public static String getScreenshotForReport(WebDriver driver,String name) {
+    public static String getScreenshot(WebDriver driver,String name) {
         // name the screenshot with current date-time to avoid duplicate naming
         String time = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 
@@ -60,7 +60,7 @@ public static Actions act;
         File source = takesScreenshot.getScreenshotAs(OutputType.FILE);
 
         // full path to the screenshot location
-        String target = "src/test/captures/Screenshots" + name + ".png";
+        String target = System.getProperty("user.dir") + "/test-output/Screenshots" + name + time + ".png";
 
         File finalDestination = new File(target);
 
