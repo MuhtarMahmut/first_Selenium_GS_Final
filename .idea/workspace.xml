@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd583dc2-3c24-46a4-a558-fd02ebf291f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/HTML_Report/recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_Reports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_annetation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/facebookreport.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/report1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/captures/MuhtarJan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/captures/MuhtarJan2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HTML_Report/Tesng_Reports.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HTML_Report/simpleReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HTML_Report/simpleReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HTML_Report/Tesng_Reports.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HTML_Report/simpleReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HTML_Report/simpleReport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Utilities/Mylibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utilities/Mylibrary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsMuhtar20190303082813.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,11 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/recap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="90">
+              <caret line="12" column="71" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_Reports.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="60" column="52" lean-forward="true" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,11 +76,13 @@
         <option value="$PROJECT_DIR$/src/test/java/File_Handlings/ExcelFile_Handlings.java" />
         <option value="$PROJECT_DIR$/src/test/java/File_Handlings/ExcelPractice.java" />
         <option value="$PROJECT_DIR$/src/test/java/HTML_Report/simpleReport.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" />
         <option value="$PROJECT_DIR$/src/test/java/HTML_Report/Tesng_Reports.java" />
         <option value="$PROJECT_DIR$/src/test/java/HTML_Report/random.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/HTML_Report/recap.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_annetation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_Reports.java" />
       </list>
     </option>
   </component>
@@ -105,7 +109,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="49" />
     <option name="y" value="35" />
     <option name="width" value="2519" />
@@ -128,6 +132,11 @@
             <path>
               <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
               <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="Reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -135,6 +144,13 @@
               <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="captures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
@@ -149,12 +165,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML_Report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
-              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,7 +174,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551803867763" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551820553784" />
     <property name="last_opened_file_path" value="D:/MyIntelJi/Testing_First_Cucumber" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -188,21 +199,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.recap">
-    <configuration name="recap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HTML_Report.recap" />
-      <module name="first_Selenium_GS_Final" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HTML_Report.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tesng_Reports (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestNG_Reports (3)">
+    <configuration name="TestNG_Reports (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="first_Selenium_GS_Final" />
       <extension name="coverage">
         <pattern>
@@ -211,14 +209,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="HTML_Report" />
-      <option name="MAIN_CLASS_NAME" value="HTML_Report.Tesng_Reports" />
+      <option name="MAIN_CLASS_NAME" value="HTML_Report.TestNG_Reports" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tesng_Reports (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNG_Reports (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="first_Selenium_GS_Final" />
       <extension name="coverage">
         <pattern>
@@ -227,14 +225,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="HTML_Report" />
-      <option name="MAIN_CLASS_NAME" value="HTML_Report.Tesng_Reports" />
+      <option name="MAIN_CLASS_NAME" value="HTML_Report.TestNG_Reports" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="random" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNG_Reports (3)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="first_Selenium_GS_Final" />
       <extension name="coverage">
         <pattern>
@@ -243,14 +241,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="HTML_Report" />
-      <option name="MAIN_CLASS_NAME" value="HTML_Report.random" />
+      <option name="MAIN_CLASS_NAME" value="HTML_Report.TestNG_Reports" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="random.mytest1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNG_Reports" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="first_Selenium_GS_Final" />
       <extension name="coverage">
         <pattern>
@@ -259,9 +257,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="HTML_Report" />
-      <option name="MAIN_CLASS_NAME" value="HTML_Report.random" />
-      <option name="METHOD_NAME" value="mytest1" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="HTML_Report.TestNG_Reports" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG_annetation (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="first_Selenium_GS_Final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HTML_Report.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HTML_Report" />
+      <option name="MAIN_CLASS_NAME" value="HTML_Report.TestNG_annetation" />
       <properties />
       <listeners />
       <method v="2">
@@ -270,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.recap" />
-        <item itemvalue="TestNG.random" />
-        <item itemvalue="TestNG.random.mytest1" />
-        <item itemvalue="TestNG.Tesng_Reports (2)" />
-        <item itemvalue="TestNG.Tesng_Reports (1)" />
+        <item itemvalue="TestNG.TestNG_Reports (3)" />
+        <item itemvalue="TestNG.TestNG_Reports (2)" />
+        <item itemvalue="TestNG.TestNG_Reports" />
+        <item itemvalue="TestNG.TestNG_Reports (1)" />
+        <item itemvalue="TestNG.TestNG_annetation (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -314,42 +326,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tesng_Reports_(3) - 2019.03.04 at 20h 45m 19s.xml">
-      <configuration name="Tesng_Reports (3)" configurationId="TestNG" />
+    <history-entry file="TestNG_annetation - 2019.03.05 at 14h 40m 31s.xml">
+      <configuration name="TestNG_annetation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Tesng_Reports - 2019.03.04 at 20h 46m 48s.xml">
-      <configuration name="Tesng_Reports" configurationId="TestNG" />
+    <history-entry file="TestNG_annetation_(1) - 2019.03.05 at 14h 42m 04s.xml">
+      <configuration name="TestNG_annetation (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Tesng_Reports_(5) - 2019.03.04 at 20h 49m 02s.xml">
-      <configuration name="Tesng_Reports (5)" configurationId="TestNG" />
+    <history-entry file="TestNG_Reports_VerifyFaceBook - 2019.03.05 at 14h 47m 41s.xml">
+      <configuration name="TestNG_Reports.VerifyFaceBook" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="random - 2019.03.04 at 21h 00m 59s.xml">
-      <configuration name="random" configurationId="TestNG" />
+    <history-entry file="TestNG_Reports - 2019.03.05 at 14h 48m 35s.xml">
+      <configuration name="TestNG_Reports" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="random_freeCrmTitleTest - 2019.03.04 at 21h 02m 08s.xml">
-      <configuration name="random.freeCrmTitleTest" configurationId="TestNG" />
+    <history-entry file="TestNG_annetation_(2) - 2019.03.05 at 14h 58m 00s.xml">
+      <configuration name="TestNG_annetation (2)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Tesng_Reports_(1) - 2019.03.05 at 00h 26m 08s.xml">
-      <configuration name="Tesng_Reports (1)" configurationId="TestNG" />
+    <history-entry file="TestNG_annetation_(3) - 2019.03.05 at 15h 03m 10s.xml">
+      <configuration name="TestNG_annetation (3)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Tesng_Reports_(2) - 2019.03.05 at 00h 28m 03s.xml">
-      <configuration name="Tesng_Reports (2)" configurationId="TestNG" />
+    <history-entry file="TestNG_annetation_(1) - 2019.03.05 at 15h 17m 25s.xml">
+      <configuration name="TestNG_annetation (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="random_mytest1 - 2019.03.05 at 01h 01m 52s.xml">
-      <configuration name="random.mytest1" configurationId="TestNG" />
+    <history-entry file="TestNG_Reports_(1) - 2019.03.05 at 15h 24m 06s.xml">
+      <configuration name="TestNG_Reports (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="random_mytest1 - 2019.03.05 at 01h 04m 39s.xml">
-      <configuration name="random.mytest1" configurationId="TestNG" />
+    <history-entry file="TestNG_Reports - 2019.03.05 at 15h 47m 24s.xml">
+      <configuration name="TestNG_Reports" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="random - 2019.03.05 at 01h 05m 03s.xml">
-      <configuration name="random" configurationId="TestNG" />
+    <history-entry file="TestNG_Reports_(2) - 2019.03.05 at 15h 56m 59s.xml">
+      <configuration name="TestNG_Reports (2)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1477" height="888" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2260128" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24235962" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -357,15 +369,15 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12568305" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329235" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4057377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964464" weight="0.329235" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50035536" side_tool="true" weight="0.329235" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49964464" weight="0.329235" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32786885" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -539,16 +551,6 @@
     <entry file="file://$PROJECT_DIR$/Reports/facebookreport.html" />
     <entry file="file://$PROJECT_DIR$/src/test/captures/Screenshots20190304034636.png" />
     <entry file="file://$PROJECT_DIR$/src/test/captures/20190304083541.png" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/simpleReport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
@@ -573,8 +575,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/recap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="90">
+          <caret line="12" column="71" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="39" column="81" selection-start-line="39" selection-start-column="81" selection-end-line="39" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_annetation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_Reports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="60" column="52" lean-forward="true" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

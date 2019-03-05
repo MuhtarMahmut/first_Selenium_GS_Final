@@ -37,7 +37,7 @@ public static Actions act;
         TakesScreenshot mirzat=(TakesScreenshot)driver;
         File myfile=mirzat.getScreenshotAs(OutputType.FILE);
         try {
-            FileUtils.copyFile(myfile, new File("src/test/captures/"+SaveAs+".png"));
+            FileUtils.copyFile(myfile, new File("src/test/captures/"+SaveAs+".jpg"));
         } catch (IOException e) {
             e.printStackTrace();
         }
