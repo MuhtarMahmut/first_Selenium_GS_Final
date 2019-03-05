@@ -46,7 +46,6 @@ public class DropDownBoxHandling extends Mylibrary{
                 select.selectByVisibleText("2010");
             }
            // select.selectByIndex(8);
-            Mylibrary.sleep(3000);
 
         }
 
