@@ -1,9 +1,7 @@
 package HTML_Report;
 
 import Utilities.Mylibrary;
-import com.aventstack.extentreports.ExtentReports;
-import com.aventstack.extentreports.ExtentTest;
-import com.aventstack.extentreports.Status;
+import com.aventstack.extentreports.*;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -13,10 +11,10 @@ import org.testng.ITestResult;
 import org.testng.annotations.*;
 
 public class TestNG_Reports {
-    ExtentReports reportDoc;
-    ExtentHtmlReporter file;
-    ExtentTest Test;
-    WebDriver driver;
+    static ExtentReports reportDoc;
+    static ExtentHtmlReporter file;
+   static  ExtentTest Test;
+    static WebDriver driver;
 
     @AfterMethod
     public void AA(ITestResult result){
